@@ -6,6 +6,6 @@
     <title>Tecno-Servi</title>
 </head>
 <body>
-    <h1>Esto es la web de tecnoservi</h1>
+    <h1>Esto es la web de tecnoservi version 2</h1>
 </body>
 </html>
